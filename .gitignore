@@ -1,0 +1,27 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+venv/
+ENV/
+
+# Output
+output/
+logs/
+*.csv
+*.json
+#*.html
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI
+*.pbix
